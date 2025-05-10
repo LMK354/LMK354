@@ -1,6 +1,6 @@
-name: khan-md
+name: LMK-AGENT002-MD 
 services:
-  - name: khan-md-service
+  - name: LMK-AGENT002-MD-service
     type: web
     ports:
       - 5000
